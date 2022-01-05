@@ -20,8 +20,8 @@ border-left: 5px solid red;
 
 .half-width{
     width: 40%;
-    padding-left: 100px;
-    padding-top: 100px;  
+    padding-left: 120px;
+    padding-top: 90px;  
 }
 
 .half-width img{
@@ -30,7 +30,59 @@ border-left: 5px solid red;
     
 }
 
+
+
 /* section 1 end*/
+
+
+
+
+/*section 2 start*/
+.half-width2{
+    width: 40%;
+    margin: 20px;
+    border-radius: 20px;
+    
+}
+
+.half-width2 img{
+    width: 70%;
+    
+}
+
+
+.mission1{  
+    background-color: rgb(33, 110, 226);
+}
+
+.mission2{  
+    background-color: rgb(243, 181, 170);
+    
+}
+
+.mission3{  
+    background-color: rgb(33, 110, 226);
+}
+
+.mission-text{
+    padding: 30px;
+}
+.section2{
+    padding: 100px;
+    
+}
+
+.sec-text2{
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*section 2 end*/
+
+
+
+
 
 
 
