@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Section stat*/
+
+.sec-box{
+border-left: 5px solid red;
+
+ 
+}
+.sec-text{
+    padding-left: 10px;
+    font-size: 50px;
+}
+
+.flex{
+    display: flex;
+}
+
+.half-width{
+    width: 40%;
+    padding-left: 100px;
+    padding-top: 100px;  
+}
+
+.half-width img{
+    width: 70%;
+    
+    
+}
+
+/* section 1 end*/
+
+
+
+/* buttom */
+
+.bt{
+
+    text-decoration: none;
+    padding: 10px 40px;
+    color: whitesmoke;
+    border-radius: 20px;
+
+    background-image: linear-gradient(red,tomato);
+
+}
