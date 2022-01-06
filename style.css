@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 
 .hh1{
@@ -16,12 +17,6 @@ border-left: 4px solid red;
 line-height: 40px;
 border-radius: 4px;
 
-
-
-
-
-
- 
 }
 .sec-text{
     padding-left: 14px;
@@ -95,6 +90,9 @@ border-radius: 4px;
 /*section 2 end*/
 
 
+
+
+
 /* section 3,4 start */
 
 .section3{
@@ -121,6 +119,64 @@ width: 40%;
 /* section 3,4 end */
 
 
+
+
+
+/* extra section */
+
+.half-width-extra{
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px rgba(28, 120, 196, 0.986);
+    border-radius: 10px;
+
+
+    
+}
+
+
+.flex2{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.section-ex{
+
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+
+
+}
+
+.box-bg1{
+    border-left: 5px solid;
+    
+    
+    border-color:rgb(3, 3, 3);
+}
+
+.box-bg2{
+
+    border-left: 5px solid;
+    border-color: red;
+
+}
+
+
+
+
+/* extra section end*/
+
+
+
+
+
 /* button*/
 
 .bt{
@@ -135,6 +191,11 @@ width: 40%;
 }
 
 
+/* button end */
+
+
+
+
 /* footer section */
 
 .section-fo{
@@ -143,6 +204,8 @@ width: 40%;
 
     
 }
+
+/* footer section end */
 
 
 
